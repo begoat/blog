@@ -1,3 +1,5 @@
+# 安利一个React同构渲染脚手架 ———— razzle
+
 ## 什么是同构：
 
 > * 客户端渲染：页面在 JavaScript，CSS 等资源文件加载完毕后开始渲染，路由为客户端路由，也就是我们经常谈到的 SPA（Single Page Application）。
@@ -72,7 +74,7 @@ razzle 和上述提到的其他支持同构渲染的框架的 ***最大不同***
 笔者是razzle的项目使用者，受益者，希望能让更多的人看到这个项目，未来一起让他更好。
 
 ## 关于同构的一些其他文章，也是本文的很多参考：
-[What is an isomorphic application?](https://www.lullabot.com/articles/what-is-an-isomorphic-application)
-[D2 - 打造高可靠与高性能的React同构解决方案](https://zhuanlan.zhihu.com/p/32124393)
-[Here’s Why Client-side Rendering Won](https://medium.freecodecamp.org/heres-why-client-side-rendering-won-46a349fadb52)
-[服务端渲染与 Universal React App](https://zhuanlan.zhihu.com/p/30580569)
+* [What is an isomorphic application?](https://www.lullabot.com/articles/what-is-an-isomorphic-application)
+* [D2 - 打造高可靠与高性能的React同构解决方案](https://zhuanlan.zhihu.com/p/32124393)
+* [Here’s Why Client-side Rendering Won](https://medium.freecodecamp.org/heres-why-client-side-rendering-won-46a349fadb52)
+* [服务端渲染与 Universal React App](https://zhuanlan.zhihu.com/p/30580569)
